@@ -1,0 +1,17 @@
+./chemdata.h
+./makefile
+./start.c
+./loop.c
+./thermochem.c
+./set.c
+./tmarch.c
+./read.c
+./mpi.h
+./save.c
+./vflux.c
+./clean.c
+./comm.h
+./solver.exvim
+./flux.c
+./main.c
+./bound.c
